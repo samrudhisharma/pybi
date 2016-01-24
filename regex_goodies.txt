@@ -1,0 +1,6 @@
+. (dot) any char 
+\w word char
+\d digit
+\s whitespace \S non-whitespace
++ 1 or more
+* 0 or more
